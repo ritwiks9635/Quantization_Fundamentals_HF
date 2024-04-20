@@ -11,3 +11,5 @@ Quantization is the process of mapping continuous infinite values to a smaller s
 ![](https://github.com/ritwiks9635/Quantization_Fundamentals_HF/blob/main/Screenshot_20240420-124755_Chrome.jpg)
 
 ![](https://github.com/ritwiks9635/Quantization_Fundamentals_HF/blob/main/Screenshot_20240420-130149_Chrome.jpg)
+
+![](https://github.com/ritwiks9635/Quantization_Fundamentals_HF/blob/main/Screenshot_20240420-130222_Chrome.jpg)
