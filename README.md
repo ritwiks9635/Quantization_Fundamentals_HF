@@ -9,3 +9,5 @@ Quantization for deep learning is the process of approximating a neural network 
 Quantization is the process of mapping continuous infinite values to a smaller set of discrete finite values. In the context of simulation and embedded computing, it is about approximating real-world values with a digital representation that introduces limits on the precision and range of a value.
 
 ![](https://github.com/ritwiks9635/Quantization_Fundamentals_HF/blob/main/Screenshot_20240420-124755_Chrome.jpg)
+
+![](https://github.com/ritwiks9635/Quantization_Fundamentals_HF/blob/main/Screenshot_20240420-130149_Chrome.jpg)
