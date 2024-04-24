@@ -49,3 +49,5 @@ Quantization is the process of mapping continuous infinite values to a smaller s
 ![](https://github.com/ritwiks9635/Quantization_Fundamentals_HF/blob/main/Screenshot_20240423-140434_Chrome.jpg)
 
 ![](https://github.com/ritwiks9635/Quantization_Fundamentals_HF/blob/main/Screenshot_20240423-140442_Chrome.jpg)
+
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://learn.deeplearning.ai/courses/quantization-fundamentals/lesson/6/quantization-of-llms)
