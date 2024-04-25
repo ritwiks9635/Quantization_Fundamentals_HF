@@ -1,6 +1,7 @@
 # Quantization_Fundamentals_HF
 Quantization for deep learning is the process of approximating a neural network that uses floating-point numbers by a neural network of low bit width numbers. This dramatically reduces both the memory requirement and computational cost of using neural networks.
 
+[🤗Quantization🤗Fundamentals🤗](https://learn.deeplearning.ai/accomplishments/926f9ed7-5b7c-431b-954a-bcd67b6405f9?usp=sharing)
 
 **Quantization** is a model size reduction technique that converts model weights from high-precision floating-point representation to low-precision floating-point (FP) or integer (INT) representations, such as 16-bit or 8-bit.
 
